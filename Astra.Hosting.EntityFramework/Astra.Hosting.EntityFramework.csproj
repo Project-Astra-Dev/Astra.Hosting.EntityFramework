@@ -7,11 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Astra.Hosting\Astra.Hosting\Astra.Hosting.csproj" />
+      <ProjectReference Include="..\..\Astra.Hosting\Astra.Hosting\Astra.Hosting.csproj" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.1" />
     </ItemGroup>
 
 </Project>
