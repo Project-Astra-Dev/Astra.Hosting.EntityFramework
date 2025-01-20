@@ -1,0 +1,3 @@
+[submodule "Astra.Hosting"]
+	path = Astra.Hosting
+	url = https://github.com/Project-Astra-Dev/Astra.Hosting.git
